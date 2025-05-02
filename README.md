@@ -1,4 +1,4 @@
-# Cozy Pomodoro Timer
+#  Pomodoro Timer
 
 A beautiful and functional Pomodoro timer web application with task management capabilities.
 
